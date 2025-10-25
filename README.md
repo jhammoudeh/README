@@ -1,4 +1,3 @@
-# README
 # Jamil Hammoudeh – Aerospace Engineering Portfolio
 
 Hi! I'm an aerospace engineering student passionate about propulsion, space systems,
